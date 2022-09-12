@@ -50,8 +50,8 @@ Predict the new sample data.
 ## PROGRAM
 
 ```pthon
-#Developed by: SURYA R
-#Registration no.: 212220230052
+#Developed by: SURENDAR S
+#Registration no.: 212220230051
 ```
 ```python
 import pandas as pd
